@@ -1,13 +1,12 @@
-
 # 🧮 Scientific Calculator
 
-A modern, responsive and user-friendly Scientific Calculator Web Application developed using HTML, CSS and JavaScript.
+A modern, responsive and user-friendly Scientific Calculator Web Application developed using **HTML, CSS and JavaScript**.
 
 This project performs basic arithmetic operations and advanced scientific calculations with a clean interface and easy-to-use functionality.
 
 ## 🌐 Live Demo
 
-[Click Here to Use Scientific Calculator](https://YOUR-USERNAME.github.io/scientific-calculator/)
+**[🚀 Click Here to Use Scientific Calculator](https://sehgal1001.github.io/scientific-calculator/)**
 
 ## 📌 About The Project
 
@@ -72,7 +71,7 @@ Follow these instructions to run the project on your local computer.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/scientific-calculator.git
+git clone https://github.com/Sehgal1001/scientific-calculator.git
 ```
 
 2. Open the project folder in Visual Studio Code.
@@ -122,27 +121,31 @@ git clone https://github.com/YOUR-USERNAME/scientific-calculator.git
 
 ## 🌍 Deployment
 
-The project is deployed using GitHub Pages.
+The project is deployed using **GitHub Pages**.
 
-Deployment Link:
+**Live Website:**
 
-https://YOUR-USERNAME.github.io/scientific-calculator/
+https://sehgal1001.github.io/scientific-calculator/
+
+**GitHub Repository:**
+
+https://github.com/Sehgal1001/scientific-calculator
 
 ## 👨‍💻 Author
 
 **Aniket Sahgal**
 
-- GitHub: https://github.com/Sehgal1001
-- LinkedIn: https://www.linkedin.com/in/aniket-sahgal-297a67276
+- GitHub: [Sehgal1001](https://github.com/Sehgal1001)
+- LinkedIn: [Aniket Sahgal](https://www.linkedin.com/in/aniket-sahgal-297a67276/)
 
 ## 🎓 Project Information
 
-- Project Name: Scientific Calculator
-- Project Type: Final Year Academic Project
-- Domain: Web Development
-- Frontend: HTML, CSS and JavaScript
-- Development Environment: Visual Studio Code
-- Deployment Platform: GitHub Pages
+- **Project Name:** Scientific Calculator
+- **Project Type:** Final Year Academic Project
+- **Domain:** Web Development
+- **Frontend:** HTML, CSS and JavaScript
+- **Development Environment:** Visual Studio Code
+- **Deployment Platform:** GitHub Pages
 
 ## 📜 License
 
